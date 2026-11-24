@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+  <addon id="repository.dekivas"
+         name="DekivaS Repository"
+         version="1.0.0"
+         provider-name="DekivaS">
+
+    <extension point="xbmc.addon.repository">
+      <info compressed="false">
+        https://raw.githubusercontent.com/Dekivas/dejan-kodi-build/main/addons.xml
+      </info>
+
+      <checksum>
+        https://raw.githubusercontent.com/Dekivas/dejan-kodi-build/main/addons.xml.md5
+      </checksum>
+
+      <datadir zip="true">
+        https://raw.githubusercontent.com/Dekivas/dejan-kodi-build/main/zips/
+      </datadir>
+    </extension>
+
+    <extension point="xbmc.addon.metadata">
+      <summary>DekivaS Repository</summary>
+      <description>DekivaS Kodi Repository</description>
+      <platform>all</platform>
+    </extension>
+
+  </addon>
+</addons>
