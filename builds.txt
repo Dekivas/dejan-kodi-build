@@ -1,2 +1,14 @@
 <builds>
+    <build
+        name="Dejan Build"
+        version="1.0"
+        kodi="21"
+        url="https://github.com/Dekivas/dejan-kodi-build/releases/download/v1.0/DekivaS+Build.zip"
+        gui=""
+        theme=""
+        icon=""
+        fanart=""
+        preview=""
+        adult="no"
+        description="Licni Kodi Build by Dekivas" />
 </builds>
