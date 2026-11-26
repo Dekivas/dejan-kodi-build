@@ -3,7 +3,7 @@
 <addons>
   <addon id="plugin.program.dekivas.installer"
          name="DekivaS Build Installer"
-         version="1.0.0"
+         version="1.0.3"
          provider-name="DekivaS">
 
     <requires>
